@@ -1,0 +1,17 @@
+@import url(cabecalho.css);
+@import url(corpo.css);
+
+:root {
+    font-size: 16px;
+    --preto-fosco: #222222;
+    --cinza-fundo: #333;
+    --cinza-claro: #555;
+    --branco-texto: #fafafa;
+
+}
+
+body {
+    background-color: var(--preto-fosco);
+    min-width: 430px;
+}
+
