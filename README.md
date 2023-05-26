@@ -7,9 +7,11 @@
 Aplicação Web com dados persistentes no LocalStorage
 
 ## TECNOLOGIAS
+
  - HTML
  - CSS
  - JS
  
- #O Projeto
+ ## O Projeto
+ 
 Aplicação web com o foco em mobile, utliza do LocalStorage para armazenar os dados das tarefas (portanto não apague o cache do navegador).
